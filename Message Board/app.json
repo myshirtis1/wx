@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/test/test",
+    "pages/login/login ",
+    "pages/write/write "
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#DEDEDE",
+    "navigationBarTitleText": "留言板",
+    "navigationBarTextStyle":"black"
+  }
+}
